@@ -192,8 +192,6 @@ backToTopBtn.addEventListener("click", () => {
 
 ![Filtering Example](./img/finalProject.PNG)
 
-*(You can replace this with a GIF of filtering in action for more impact)*
-
 ---
 
 ## Responsive Design
