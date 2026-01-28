@@ -1,7 +1,3 @@
-Perfecto. Vamos a hacer un **README profesional, completo, y con explicación de tu código**. Incluiré: estructura del proyecto, cómo funciona el código, fragmentos de ejemplo, imágenes, y guía visual. Esto será el tipo de README que impresiona en GitHub.
-
----
-
 # Pokédex Web App
 
 A **responsive and interactive Pokédex** built with **HTML, CSS, and Vanilla JavaScript**, consuming data from the **PokeAPI**. Explore the first **151 Pokémon (Generation I)** with official artwork, stats, and real-time type filters.
@@ -232,9 +228,3 @@ backToTopBtn.addEventListener("click", () => {
 
 For **educational and personal use only**.
 Pokémon names, images, and related content © Nintendo / Game Freak.
-
----
-
-Si quieres, puedo hacer **una versión final con mini-GIFs animados de filtrado + highlight de tipos + estilos Markdown súper limpios** que realmente haga que tu README **resalte como proyecto profesional en tu portafolio**.
-
-¿Quieres que haga esa versión?
